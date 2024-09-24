@@ -1,9 +1,10 @@
 @import './base.css';
 
+@import '../../node_modules/material-icons/iconfont/material-icons.css';
+
 #app {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   font-weight: normal;
 }
 
